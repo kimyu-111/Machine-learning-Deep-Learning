@@ -1,6 +1,0 @@
-visdrone_data/
-detr-visdrone-result/
-detr-visdrone-final/
-__pycache__/
-*.pth
-*.pt

@@ -2,8 +2,7 @@
 
 ## About
 Welcome to my Machine Learning and Deep Learning practice repository.
-This project records my journey of mastering the core algorithms of AI, following the roadmap of the book **"Alone Study Machine Learning + Deep Learning"**.
-
+This project records my journey of mastering the core algorithms of AI
 Instead of just using libraries, I aim to deeply understand how these models work and how to optimize them for real-world data.
 
 ##  Upcoming Plans

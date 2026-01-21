@@ -149,8 +149,8 @@ evaluate_model(model, val_scaled, val_target)
 print("8. 조기 종료(Early Stopping) 콜백 적용")
 model = model_fn(keras.layers.Dropout(0.3))
 model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
-checkpoint_cb = keras.callbacks.ModelCheckpoint('best-model.h5', save_best_weight=True)
-early_stopping_cb = keras.callbacks.EarlyStopping(patience=2, restore_best_weight=True)
+checkpoint_cb = keras.callbacks.ModelCheckpoint('best-model.h5', save_best_only=True)
+early_stopping_cb = keras.callbacks.EarlyStopping(patience=2, restore_best_weights=True)
 
 history = train_and_plot(model, train_scaled, train_target, 
                          val_data=(val_scaled, val_target), 

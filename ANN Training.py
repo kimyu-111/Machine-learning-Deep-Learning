@@ -158,3 +158,4 @@ history = train_and_plot(model, train_scaled, train_target,
 
 model = keras.models.load_model('best-model.h5')
 evaluate_model(model, val_scaled, val_target)
+

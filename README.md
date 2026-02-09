@@ -1,22 +1,19 @@
-# ML & DL Basic Practice
+#  AI & Deep Learning Deep Dive
 
-## About
-Welcome to my Machine Learning and Deep Learning practice repository.
-This project records my journey of mastering the core algorithms of AI
-Instead of just using libraries, I aim to deeply understand how these models work and how to optimize them for real-world data.
+Welcome to my personal archive for Artificial Intelligence and Deep Learning.
+This repository serves as a comprehensive record of my journey in computer science, focusing on the mathematical foundations and practical implementations of modern AI.
 
-##  Upcoming Plans
-I am currently focusing on expanding this repository with a comprehensive set of ML/DL implementations. Here is what I will be working on next:
+##  Objective
+The goal of this repository is not just to use libraries, but to understand the core principles behind algorithms. I am continuously updating this space with:
+* Mathematical Foundations: Linear Algebra, Calculus, Probability & Statistics (e.g., Gaussian Distributions).
+* Machine Learning Algorithms: Implementation from scratch and utilizing Scikit-learn.
+* Deep Learning: Neural Networks, Computer Vision, and advanced model architectures using TensorFlow/PyTorch.
 
-**1. Mastering Classic ML Algorithms**
-* Dive deeper into **Regression** and **Classification** problems.
-* Implement **Decision Trees** and apply **Ensemble methods** (Random Forest, Gradient Boosting).
-* Study **Grid Search** and **Cross-Validation** for hyperparameter tuning.
 
-**2. Transitioning to Deep Learning**
-* Construct **Neural Networks** from the ground up.
-* Implement **CNNs (Convolutional Neural Networks)** for image recognition tasks.
-* Explore **RNNs (Recurrent Neural Networks)** and **LSTMs** for handling time-series and text data.
+##  Repository Structure
+* `Mathematics`: Code related to essential math for AI (Statistics, Calculus, Linear Algebra).
+* `ML-Algorithms`: Classic Machine Learning models and data analysis.
+* `Deep-Learning`: Deep Neural Networks (DNN), CNN, RNN, and more.
 
-**3. Advanced Optimization**
-* Experiment with various regularization techniques (Dropout, Early Stopping) to improve model performance.
+
+> *This repository is continuously updated as I explore new topics in the field of AI.*

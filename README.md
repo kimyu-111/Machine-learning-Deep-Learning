@@ -1,4 +1,4 @@
-#  AI & Deep Learning Deep Dive
+#  AI-Study
 
 Welcome to my personal archive for Artificial Intelligence and Deep Learning.
 This repository serves as a comprehensive record of my journey in computer science, focusing on the mathematical foundations and practical implementations of modern AI.

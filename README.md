@@ -5,7 +5,7 @@ This repository serves as a comprehensive record of my journey in computer scien
 
 ##  Objective
 The goal of this repository is not just to use libraries, but to understand the core principles behind algorithms. I am continuously updating this space with:
-* Mathematical Foundations: Linear Algebra, Calculus, Probability & Statistics (e.g., Gaussian Distributions).
+* Mathematical Foundations: Linear Algebra, Calculus, Probability & Statistics (e.g., Gaussian Distributions),Multiple Variable Calculus, and Engeenering math
 * Machine Learning Algorithms: Implementation from scratch and utilizing Scikit-learn.
 * Deep Learning: Neural Networks, Computer Vision, and advanced model architectures using TensorFlow/PyTorch.
 
